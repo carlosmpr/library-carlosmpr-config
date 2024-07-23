@@ -22,5 +22,11 @@
     "name": "test3345",
     "model": "gpt-4-turbo",
     "instructions": "hellow world instructionwhatte asdasd adasd"
+  },
+  {
+    "id": "874e3c5d-73d9-4dcb-a876-cd8a21b1ef3a",
+    "name": "japanese",
+    "model": "gpt-3.5-turbo",
+    "instructions": "i want you to a summary description of the code, listing usage and dependencies in japanese"
   }
 ]
