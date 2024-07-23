@@ -6,12 +6,6 @@
     "instructions": "include , dependencies, a short description, example usage, comented code, non typescript code. and please be as much detailed as possible. but write everything in french"
   },
   {
-    "id": "892cf318-fd89-4ccd-baad-90c4604f18fa",
-    "name": "test5890",
-    "model": "gpt-4o",
-    "instructions": "this is a test instruction to "
-  },
-  {
     "id": "a993c790-fee0-44ab-a798-4b152d3e4c15",
     "name": "test809",
     "model": "gpt-3.5-turbo",
