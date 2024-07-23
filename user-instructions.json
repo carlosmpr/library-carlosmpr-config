@@ -22,5 +22,11 @@
     "name": "test908",
     "model": "gpt-4-turbo",
     "instructions": "klkjsfd"
+  },
+  {
+    "id": "3ed4c1b7-03bc-4528-91a5-cf391595e9b4",
+    "name": "test8790",
+    "model": "gpt-4-turbo",
+    "instructions": "this is a test saved instructions"
   }
 ]
