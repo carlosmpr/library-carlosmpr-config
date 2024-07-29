@@ -1,11 +1,5 @@
 [
   {
-    "id": "a993c790-fee0-44ab-a798-4b152d3e4c15",
-    "name": "test809999123",
-    "model": "gpt-3.5-turbo",
-    "instructions": "this is a test "
-  },
-  {
     "id": "b2e589b6-a5b7-4594-a65a-37dd85f6a5ab",
     "name": "test908",
     "model": "gpt-4-turbo",
