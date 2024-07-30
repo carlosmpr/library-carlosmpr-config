@@ -18,12 +18,6 @@
     "instructions": "i want you to a summary description of the code, listing usage and dependencies in japanese"
   },
   {
-    "id": "d12ad0b8-3fc4-42a7-812b-a452fd1ff411",
-    "name": "test",
-    "model": "gpt-3.5-turbo",
-    "instructions": "this is a test prompt"
-  },
-  {
     "id": "2559e4ca-4fe7-418c-b8de-dcb21a4e1dde",
     "name": "step by step",
     "model": "gpt-4-turbo",
