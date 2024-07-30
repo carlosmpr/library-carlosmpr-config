@@ -22,5 +22,11 @@
     "name": "test",
     "model": "gpt-3.5-turbo",
     "instructions": "this is a test prompt"
+  },
+  {
+    "id": "2559e4ca-4fe7-418c-b8de-dcb21a4e1dde",
+    "name": "step by step",
+    "model": "gpt-4-turbo",
+    "instructions": "Write a detailed step by step of the code"
   }
 ]
