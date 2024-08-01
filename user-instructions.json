@@ -1,11 +1,5 @@
 [
   {
-    "id": "b2e589b6-a5b7-4594-a65a-37dd85f6a5ab",
-    "name": "test908",
-    "model": "gpt-4-turbo",
-    "instructions": "klkjsfd"
-  },
-  {
     "id": "3ed4c1b7-03bc-4528-91a5-cf391595e9b4",
     "name": "test3345",
     "model": "gpt-4-turbo",
