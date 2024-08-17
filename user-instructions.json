@@ -1,11 +1,5 @@
 [
   {
-    "id": "fa99036c-134d-4035-b46c-14ec9d9585c9",
-    "name": "step by step123",
-    "model": "gpt-4o",
-    "instructions": "Write a detailed step by step of the code"
-  },
-  {
     "id": "b4ad513b-d9bc-4565-b8d2-860b139f0039",
     "name": "Detailed instruction",
     "model": "gpt-4-turbo",
