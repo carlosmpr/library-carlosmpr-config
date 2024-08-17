@@ -4,5 +4,11 @@
     "name": "Detailed instruction",
     "model": "gpt-4-turbo",
     "instructions": "Please create a detailed explanation of the following code, including the following sections:\nSummary: Provide a brief overview of the code's purpose and usage. Dependencies: List any dependencies required by the code. Detailed Usage Information: Offer an in-depth explanation of how to use the code, including an explanation of important parts of the functions line by line"
+  },
+  {
+    "id": "7e9ad804-add6-4ca8-ba75-4bb35c5bfe88",
+    "name": "Instruccion en espanol",
+    "model": "gpt-4-turbo",
+    "instructions": "\"Por favor, crea una explicación detallada del siguiente código, incluyendo las siguientes secciones:\n\nResumen: Proporciona una breve descripción del propósito y uso del código.\nDependencias: Enumera cualquier dependencia requerida por el código.\nInformación Detallada de Uso: Ofrece una explicación profunda sobre cómo utilizar el código, incluyendo una explicación de las partes importantes de las funciones línea por línea.\"\nNota: Escribe la explicación en español."
   }
 ]
