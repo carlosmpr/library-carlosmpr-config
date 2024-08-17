@@ -1,11 +1,5 @@
 [
   {
-    "id": "58cd1b65-af44-4fcc-bfdd-7ff68509ae0b",
-    "name": "this is a build test",
-    "model": "gpt-4o",
-    "instructions": "this is a build test"
-  },
-  {
     "id": "fa99036c-134d-4035-b46c-14ec9d9585c9",
     "name": "step by step123",
     "model": "gpt-4o",
