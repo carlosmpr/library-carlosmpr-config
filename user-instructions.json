@@ -3,6 +3,6 @@
     "id": "b4ad513b-d9bc-4565-b8d2-860b139f0039",
     "name": "Detailed instruction",
     "model": "gpt-4-turbo",
-    "instructions": "Please create a detailed explanation of the following code, including the following sections:  Detailed Usage Information: Offer an in-depth explanation of how use the code. Dependencies: List any dependencies required by the code. Example Usage: Show how to use the code with practical examples."
+    "instructions": "Please create a detailed explanation of the following code, including the following sections:\nSummary: Provide a brief overview of the code's purpose and usage. Dependencies: List any dependencies required by the code. Detailed Usage Information: Offer an in-depth explanation of how to use the code, including an explanation of important parts of the functions line by line"
   }
 ]
