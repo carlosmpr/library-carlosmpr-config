@@ -1,11 +1,5 @@
 [
   {
-    "id": "874e3c5d-73d9-4dcb-a876-cd8a21b1ef3a",
-    "name": "japanese",
-    "model": "gpt-3.5-turbo",
-    "instructions": "i want you to a summary description of the code, listing usage and dependencies in japanese"
-  },
-  {
     "id": "2559e4ca-4fe7-418c-b8de-dcb21a4e1dde",
     "name": "step by step",
     "model": "gpt-4-turbo",
