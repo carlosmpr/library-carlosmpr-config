@@ -10,5 +10,11 @@
     "name": "Instruccion en espanol",
     "model": "gpt-4-turbo",
     "instructions": "\"Por favor, crea una explicación detallada del siguiente código, incluyendo las siguientes secciones:\n\nResumen: Proporciona una breve descripción del propósito y uso del código.\nDependencias: Enumera cualquier dependencia requerida por el código.\nInformación Detallada de Uso: Ofrece una explicación profunda sobre cómo utilizar el código, incluyendo una explicación de las partes importantes de las funciones línea por línea.\"\nNota: Escribe la explicación en español."
+  },
+  {
+    "id": "8be5836b-82a8-49e8-8554-8488be8c232e",
+    "name": "instrucciones detalladas en espanol 4mini",
+    "model": "gpt-4o-mini",
+    "instructions": "necesito que expliques cada linea de codigo, detallando paso a paso la funcion de cada una. quiero que tu explicacion sea tecnica utilizando palabras sencillas que cualquier usuario pueda entender"
   }
 ]
