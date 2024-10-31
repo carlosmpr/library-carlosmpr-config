@@ -28,5 +28,11 @@
     "name": "better code explain in english",
     "model": "gpt-4o-mini",
     "instructions": "can you explain in detail the provided code, be concise and precise for general audience can understand the code. "
+  },
+  {
+    "id": "52dff657-806d-4dde-a435-6e1ab2beec7c",
+    "name": "instruccion por detalle en espanol",
+    "model": "gpt-4o-mini",
+    "instructions": "puedes describir la funcionalidad y en detalle el siguiente codigo en espanol."
   }
 ]
