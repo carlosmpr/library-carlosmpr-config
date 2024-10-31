@@ -1,11 +1,5 @@
 [
   {
-    "id": "bd722ee0-0c1a-4b4a-ad08-2ddffe148451",
-    "name": "instruccion mini en ingles ",
-    "model": "gpt-4o-mini",
-    "instructions": "necesito que expliques cada linea de codigo, detallando paso a paso la funcion de cada una. quiero que tu explicacion sea tecnica utilizando palabras sencillas que cualquier usuario pueda entender. pero escribela en ingles"
-  },
-  {
     "id": "8718016b-88dc-4aaa-a572-cfff6f280d99",
     "name": "better code explain in english",
     "model": "gpt-4o-mini",
